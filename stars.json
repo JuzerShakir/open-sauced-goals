@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "fpsvogel/learn-ruby",
+    "stargazers_count": 177,
+    "open_issues_count": 0,
+    "forks_count": 12
+  },
+  {
     "full_name": "JuzerShakir/imdb_api",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "validates-email-format-of/validates_email_format_of",
-    "stargazers_count": 406,
+    "stargazers_count": 405,
     "open_issues_count": 9,
     "forks_count": 87
   },
@@ -25,27 +31,27 @@
   },
   {
     "full_name": "ranger/ranger",
-    "stargazers_count": 12396,
-    "open_issues_count": 846,
+    "stargazers_count": 12410,
+    "open_issues_count": 837,
     "forks_count": 810
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 215829,
+    "stargazers_count": 216190,
     "open_issues_count": 70,
-    "forks_count": 24665
+    "forks_count": 24721
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 5880,
+    "stargazers_count": 5904,
     "open_issues_count": 36,
-    "forks_count": 897
+    "forks_count": 908
   },
   {
     "full_name": "WebDevSimplified/Learn-SQL",
-    "stargazers_count": 692,
+    "stargazers_count": 694,
     "open_issues_count": 7,
-    "forks_count": 435
+    "forks_count": 436
   },
   {
     "full_name": "JuzerShakir/How_to_Ruby_with_Edabit",
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "mhmzdev/devfolio",
-    "stargazers_count": 516,
+    "stargazers_count": 518,
     "open_issues_count": 2,
-    "forks_count": 184
+    "forks_count": 187
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 47990,
-    "open_issues_count": 262,
-    "forks_count": 12083
+    "stargazers_count": 48074,
+    "open_issues_count": 263,
+    "forks_count": 12101
   },
   {
     "full_name": "JuzerShakir/instagram",
@@ -105,19 +111,19 @@
     "full_name": "JuzerShakir/Forest_Cover-Type",
     "stargazers_count": 5,
     "open_issues_count": 1,
-    "forks_count": 6
+    "forks_count": 5
   },
   {
     "full_name": "soulmachine/machine-learning-cheat-sheet",
-    "stargazers_count": 5597,
+    "stargazers_count": 5602,
     "open_issues_count": 9,
     "forks_count": 1071
   },
   {
     "full_name": "llSourcell/Learn_Machine_Learning_in_3_Months",
-    "stargazers_count": 7549,
+    "stargazers_count": 7553,
     "open_issues_count": 18,
-    "forks_count": 2428
+    "forks_count": 2431
   },
   {
     "full_name": "abequinonez/udacity-frontend-map",
@@ -127,8 +133,8 @@
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 57263,
+    "stargazers_count": 57297,
     "open_issues_count": 320,
-    "forks_count": 11144
+    "forks_count": 11151
   }
 ]

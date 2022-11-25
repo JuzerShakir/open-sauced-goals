@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "JuzerShakir/ruby",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "fpsvogel/learn-ruby",
-    "stargazers_count": 182,
+    "stargazers_count": 185,
     "open_issues_count": 0,
     "forks_count": 12
   },
@@ -25,33 +31,33 @@
   },
   {
     "full_name": "JuzerShakir/Investigate_TMDb_Movies",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "ranger/ranger",
-    "stargazers_count": 12427,
-    "open_issues_count": 827,
-    "forks_count": 811
+    "stargazers_count": 12439,
+    "open_issues_count": 819,
+    "forks_count": 812
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 216748,
-    "open_issues_count": 73,
-    "forks_count": 24801
+    "stargazers_count": 217756,
+    "open_issues_count": 77,
+    "forks_count": 24894
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 5941,
+    "stargazers_count": 5981,
     "open_issues_count": 36,
-    "forks_count": 913
+    "forks_count": 918
   },
   {
     "full_name": "WebDevSimplified/Learn-SQL",
-    "stargazers_count": 698,
+    "stargazers_count": 701,
     "open_issues_count": 7,
-    "forks_count": 435
+    "forks_count": 440
   },
   {
     "full_name": "JuzerShakir/How_to_Ruby_with_Edabit",
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "mhmzdev/devfolio",
-    "stargazers_count": 518,
+    "stargazers_count": 519,
     "open_issues_count": 2,
     "forks_count": 188
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 48193,
-    "open_issues_count": 256,
-    "forks_count": 12142
+    "stargazers_count": 48300,
+    "open_issues_count": 254,
+    "forks_count": 12196
   },
   {
     "full_name": "JuzerShakir/instagram",
@@ -115,15 +121,15 @@
   },
   {
     "full_name": "soulmachine/machine-learning-cheat-sheet",
-    "stargazers_count": 5604,
+    "stargazers_count": 5607,
     "open_issues_count": 9,
     "forks_count": 1071
   },
   {
     "full_name": "llSourcell/Learn_Machine_Learning_in_3_Months",
-    "stargazers_count": 7551,
+    "stargazers_count": 7552,
     "open_issues_count": 18,
-    "forks_count": 2429
+    "forks_count": 2430
   },
   {
     "full_name": "abequinonez/udacity-frontend-map",
@@ -133,8 +139,8 @@
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 57323,
+    "stargazers_count": 57359,
     "open_issues_count": 320,
-    "forks_count": 11164
+    "forks_count": 11171
   }
 ]
